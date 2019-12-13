@@ -1,0 +1,7 @@
+Cow
+Pig
+Cat
+Rat
+Dog
+Duck
+Hen
